@@ -79,3 +79,29 @@ Infraestructura y Herramientas
 Plataforma de aplicación: PWA (Aplicación Web Progresiva)
 Conectividad: Internet
 
+🛠️ Requisitos e Instalación
+
+Prerrequisitos
+
+node v24
+npm v11
+git 
+navegador web moderno (chrome, edge, opera, etc)
+Conexión a internet necesaria para la conexión a Supabase
+Archivo de variables de entorno .env configurado correctamente
+
+Pasos para Ejecutar Localmente
+1. Clonar el repositorio:
+git clone https://github.com/tu-usuario/2026_2_MA_CAPSTONE_005D_GRUPO_7.git
+cd 2026_2_MA_CAPSTONE_005D_GRUPO_7
+2. Navegar a la carpeta del sistema:
+cd "Fase 2/Evidencias Proyecto/Evidencias de sistema"
+3. Instalar dependencias y levantar el proyecto:
+npm install
+npm run dev  
+
+
+
+📌 Notas Finales
+
+Proyecto elaborado como parte del proceso de la asignatura Capstone (2026_2_MA_CAPSTONE_005D_GRUPO_7).
