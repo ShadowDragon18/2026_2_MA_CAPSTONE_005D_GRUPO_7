@@ -8,6 +8,8 @@ Institución: DUOC UC
 
 El proyecto EXILUS tiene como objetivo desarrollar una aplicación web progresiva (PWA) multiplataforma para optimizar la gestión clínica y administrativa de una consulta oftalmológica. Busca centralizar y facilitar el registro y la consulta de pacientes, captadores, recetas oftalmológicas y garantías, resolviendo problemas de organización y acceso a la información. Para su desarrollo utilizará React, TypeScript, Vite, Tailwind CSS y Supabase, junto con PostgreSQL para la base de datos y Supabase Auth para la autenticación. Se espera mejorar la eficiencia administrativa, agilizar la atención de pacientes y garantizar la seguridad y confidencialidad de la información mediante permisos de acceso según los roles de los usuarios.
 
+Para el desarrollo de Exilus se utiliza una metodología tradicional de desarrollo de software (modelo en cascada), que permite organizar el proyecto mediante etapas secuenciales y una planificación estructurada. El proceso contempla el levantamiento y análisis de requerimientos, diseño del sistema y base de datos, desarrollo de módulos, integración, pruebas y entrega final. Esta metodología permite mantener un control organizado de las actividades, documentar los avances y verificar el cumplimiento de los requerimientos establecidos. Además, se utiliza una Carta Gantt para planificar las tareas, gestionar los tiempos y realizar el seguimiento del proyecto.
+
 👥 Equipo de Trabajo
 Nombre Completo | Rol/Responsabilidad | Correo Electrónico | Github
 Abraham Fernández | Lider de proyecto/ Desarrollador Ful Stack | dasisfernandez11@gmail.com | ShadowDragon18
